@@ -1,0 +1,13 @@
+.login {
+    background-color: rgb(167, 96, 96);
+}
+
+#signin-btn,
+#show-signup-form-btn {
+    display: none;
+}
+
+#login-btn,
+#signin-btn {
+    background-color: rgb(216, 205, 205);
+}
